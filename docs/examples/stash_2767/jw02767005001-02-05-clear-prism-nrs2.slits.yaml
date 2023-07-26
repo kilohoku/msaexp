@@ -1,0 +1,28 @@
+'2767_11027':
+  bkg_index: []
+  is_background: false
+  prof_sigma: 0.7659574468085106
+  redshift: null
+  skip: []
+  slit_dec: 0.0916654329156103
+  slit_index: 0
+  slit_ra: 322.42158859573294
+  source_dec: 0.0916869
+  source_name: '2767_11027'
+  source_ra: 322.4215529
+  src_index: 2
+  yoffset: 0
+'2767_2740':
+  bkg_index: []
+  is_background: false
+  prof_sigma: 0.7659574468085106
+  redshift: null
+  skip: []
+  slit_dec: 0.10157366149243803
+  slit_index: 1
+  slit_ra: 322.41989826906735
+  source_dec: 0.10157449
+  source_name: '2767_2740'
+  source_ra: 322.41989594
+  src_index: 2
+  yoffset: 0

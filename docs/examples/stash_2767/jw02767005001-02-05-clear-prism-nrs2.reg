@@ -1,0 +1,5 @@
+# jw02767005001-02-05-clear-prism-nrs2
+global color=magenta
+icrs
+circle(322.419896,0.101574,0.3") #  text={2767_2740}
+circle(322.421553,0.091687,0.3") #  text={2767_11027}
